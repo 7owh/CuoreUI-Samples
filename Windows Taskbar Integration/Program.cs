@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Windows.Forms;
-using Windows_Taskbar_Integration;
 
 namespace Windows_Taskbar_Integration
 {
